@@ -1,4 +1,4 @@
-# CODESOFT-Inter-Project-
+# CODESOFT-Intern-Project-
 I have successfully completed internship project
 1.calculator
 2.password generator 
